@@ -322,17 +322,17 @@ This section automates the creation of a "Zig" pocket and applies a rectangular 
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center; width: 33%;">
-    <img src="https://github.com/user-attachments/assets/2e7f0246-dd49-4605-ade0-72321f18375e" alt="Image 1" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/2e7f0246-dd49-4605-ade0-72321f18375e" alt="Image 1" style="width:100%; object-fit: cover;">
     <p><strong>Figure: Cushioning Pad</strong></p>
   </div>
 
   <div style="text-align: center; width: 33%;">
-    <img src="https://github.com/user-attachments/assets/87285ce1-1734-4256-8ea2-c46944afd9ec" alt="Image 2" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/87285ce1-1734-4256-8ea2-c46944afd9ec" alt="Image 2" style="width:100%; object-fit: cover;">
     <p><strong>Figure: Mirror</strong></p>
   </div>
 
   <div style="text-align: center; width: 33%;">
-    <img src="https://github.com/user-attachments/assets/fcf396cc-b6b1-4201-8b88-56456c0bde50" alt="Image 3" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/fcf396cc-b6b1-4201-8b88-56456c0bde50" alt="Image 3" style="width:100%; object-fit: cover;">
     <p><strong>Figure: Fins</strong></p>
   </div>
 
