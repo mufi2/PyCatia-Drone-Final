@@ -180,22 +180,22 @@ This step creates a pocket on a defined surface, allowing for material removal.
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center; width: 33%;">
-    <img src="https://github.com/user-attachments/assets/9fbc43e5-b602-4f60-9b77-258392112c21" alt="Image 1" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/9fbc43e5-b602-4f60-9b77-258392112c21" alt="Image 1" style="width:100%;">
     <p><strong>Figure: Rotor Pad</strong></p>
   </div>
 
   <div style="text-align: center; width: 33%;">
-    <img src="https://github.com/user-attachments/assets/761e4acf-ba49-4590-bad7-c8bdf7ae11fa" alt="Image 2" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/761e4acf-ba49-4590-bad7-c8bdf7ae11fa" alt="Image 2" style="width:100%; ">
     <p><strong>Figure: Chamfer</strong></p>
   </div>
 
   <div style="text-align: center; width: 33%;">
-    <img src="https://github.com/user-attachments/assets/841325cb-bced-43c9-8f6c-32c3dcd125fc" alt="Image 3" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/841325cb-bced-43c9-8f6c-32c3dcd125fc" alt="Image 3" style="width:100%; ">
     <p><strong>Figure: Pocket</strong></p>
   </div>
 
 </div>
-## *Rotor*
+## **Rotor**
 
 ### **Rotor Outer Circle and Chamfer Application**
 
@@ -256,29 +256,29 @@ This process automates the creation and refinement of the rotor's outer circle a
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/b288ccf3-0d9c-42a8-a8f9-d134b8abe8d8" alt="Image 1" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/b288ccf3-0d9c-42a8-a8f9-d134b8abe8d8" alt="Image 1" style="width:100%;">
     <p><strong>Figure: Rotor Base</strong></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/15f2a6d8-ec7a-4a81-b9f0-c5412cb43301" alt="Image 2" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/15f2a6d8-ec7a-4a81-b9f0-c5412cb43301" alt="Image 2" style="width:100%;">
     <p><strong>Figure: Rotor Pad </strong></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7b978ffa-630d-40eb-9010-291fcfc0ef07" alt="Image 3" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/7b978ffa-630d-40eb-9010-291fcfc0ef07" alt="Image 3" style="width:100%;">
     <p><strong>Figure: Rotor Saddle</strong></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7648f925-c5b1-4f61-9610-1cdb1456ec2a" alt="Image 4" style="width:100%; height:200px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/7648f925-c5b1-4f61-9610-1cdb1456ec2a" alt="Image 4" style="width:100%;">
     <p><strong>Figure: Rotor Wing</strong></p>
   </div>
 
 </div>
 
 </div>
-## *Surface Design and Geometry Operations*
+## **Surface Design and Geometry Operations**
 ### **Top Surface Pad Creation**
 
 This section covers the creation of a top surface sketch and its extrusion into a 3D pad.
