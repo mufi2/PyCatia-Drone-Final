@@ -83,6 +83,7 @@ A **progress bar** visually tracks the generation process, while the **status la
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86076a93-329d-43b3-bf8a-01db3aae7d9a" alt="CATIA Toolbar"/>
 </p>
+
 # **Back-end (Design Implementation)**
 ## *Padding the Chastity and Applying Chamfers* 🚀
 
@@ -129,6 +130,7 @@ Chamfers are applied to smooth edges, improving the design’s aesthetics and fu
   </div>
 
 </div>
+
 ## *Rotor Pad Operations* 🛠️
 
 ### **Cleaning and Preparing Surface References**
@@ -195,6 +197,7 @@ This step creates a pocket on a defined surface, allowing for material removal.
   </div>
 
 </div>
+
 ## **Rotor**
 
 ### **Rotor Outer Circle and Chamfer Application**
@@ -253,31 +256,25 @@ This process automates the creation and refinement of the rotor's outer circle a
 
 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+<div style="display: flex; justify-content: space-between;">
 
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/b288ccf3-0d9c-42a8-a8f9-d134b8abe8d8" alt="Image 1" style="width:100%;">
-    <p><strong>Figure: Rotor Base</strong></p>
+  <div style="text-align: center; width: 33%;">
+    <img src="https://github.com/user-attachments/assets/2e7f0246-dd49-4605-ade0-72321f18375e" alt="Image 1" style="width:100%; height:200px; object-fit: cover;">
+    <p><strong>Figure: Cushioning Pad</strong></p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/15f2a6d8-ec7a-4a81-b9f0-c5412cb43301" alt="Image 2" style="width:100%;">
-    <p><strong>Figure: Rotor Pad </strong></p>
+  <div style="text-align: center; width: 33%;">
+    <img src="https://github.com/user-attachments/assets/87285ce1-1734-4256-8ea2-c46944afd9ec" alt="Image 2" style="width:100%; height:200px; object-fit: cover;">
+    <p><strong>Figure: Mirror</strong></p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7b978ffa-630d-40eb-9010-291fcfc0ef07" alt="Image 3" style="width:100%;">
-    <p><strong>Figure: Rotor Saddle</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7648f925-c5b1-4f61-9610-1cdb1456ec2a" alt="Image 4" style="width:100%;">
-    <p><strong>Figure: Rotor Wing</strong></p>
+  <div style="text-align: center; width: 33%;">
+    <img src="https://github.com/user-attachments/assets/fcf396cc-b6b1-4201-8b88-56456c0bde50" alt="Image 3" style="width:100%; height:200px; object-fit: cover;">
+    <p><strong>Figure: Fins</strong></p>
   </div>
 
 </div>
 
-</div>
 ## **Surface Design and Geometry Operations**
 ### **Top Surface Pad Creation**
 
