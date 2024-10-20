@@ -350,6 +350,6 @@ This ensures that the geometry is symmetrically extended across the XY plane for
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/59e60627-27ef-49fb-87f0-7a0576aae7bb" alt="Mirror Operation Example" style="width:80%;">
+  <img src="https://github.com/user-attachments/assets/59e60627-27ef-49fb-87f0-7a0576aae7bb" alt="Mirror Operation Example" style="width:100%;">
   <p><strong>Figure: Final Design</strong></p>
 </div>
