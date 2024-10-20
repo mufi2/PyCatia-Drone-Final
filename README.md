@@ -354,3 +354,8 @@ This ensures that the geometry is symmetrically extended across the XY plane for
   <img src="https://github.com/user-attachments/assets/59e60627-27ef-49fb-87f0-7a0576aae7bb" alt="Mirror Operation Example" style="width:100%;">
   <p><strong>Figure: Final Design</strong></p>
 </div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/5ae1a992-b5a4-44f6-8d73-d49087fd54d2" alt="Mirror Operation Example" style="width:100%;">
+  <p><strong>Figure: Drafting Diagram</strong></p>
+</div>
