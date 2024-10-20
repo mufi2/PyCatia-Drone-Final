@@ -350,6 +350,12 @@ This section performs a mirror operation to create a symmetrical reflection of t
 - **Part Update**: The part is updated using **`document.part.update()`** to integrate the mirrored geometry into the CATIA model.
 
 This ensures that the geometry is symmetrically extended across the XY plane for balanced design.
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/59e60627-27ef-49fb-87f0-7a0576aae7bb" alt="Mirror Operation Example" style="width:80%;">
+  <p><strong>Figure: Final Design</strong></p>
+</div>
+
+
 
 
 
