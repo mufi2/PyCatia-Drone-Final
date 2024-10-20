@@ -198,7 +198,7 @@ This step creates a pocket on a defined surface, allowing for material removal.
 
 </div>
 
-## **Rotor**
+## *Rotor*
 
 ### **Rotor Outer Circle and Chamfer Application**
 
@@ -282,7 +282,7 @@ This process automates the creation and refinement of the rotor's outer circle a
 
 </div>
 
-## **Surface Design and Geometry Operations**
+## *Surface Design and Geometry Operations*
 ### **Top Surface Pad Creation**
 
 This section covers the creation of a top surface sketch and its extrusion into a 3D pad.
