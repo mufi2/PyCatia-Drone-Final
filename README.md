@@ -164,7 +164,7 @@ After creating the pad, chamfers are applied to smooth the edges for a refined f
 4. **Finalizing**: The chamfer is rendered with **`document.part.update()`**.
 
 
-### **Pocket Creation on Defined Surfaces**
+### **Pocket Creation on Defined Surfaces** 🛠️
 
 This step creates a pocket on a defined surface, allowing for material removal.
 
@@ -198,7 +198,7 @@ This step creates a pocket on a defined surface, allowing for material removal.
 
 </div>
 
-## *Rotor*
+## *Rotor* 🛠️
 
 ### **Rotor Outer Circle and Chamfer Application**
 
@@ -282,7 +282,7 @@ This process automates the creation and refinement of the rotor's outer circle a
 
 </div>
 
-## *Surface Design and Geometry Operations*
+## *Surface Design and Geometry Operations* 🛠️
 ### **Top Surface Pad Creation**
 
 This section covers the creation of a top surface sketch and its extrusion into a 3D pad.
@@ -342,7 +342,7 @@ This section automates the creation of a "Zig" pocket and applies a rectangular 
 
 </div>
 
-### *Mirror Operation on XY Plane*
+### *Mirror Operation on XY Plane* 🛠️
 
 This section performs a mirror operation to create a symmetrical reflection of the existing geometry across the XY plane.
 
